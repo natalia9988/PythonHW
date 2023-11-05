@@ -1,0 +1,404 @@
+{
+    "C:\\": {
+        "object_type": "Directory",
+        "object_name": "Python",
+        "object_size": 381611,
+        "parant_directory": ""
+    },
+    "C:\\Python\\": {
+        "object_type": "File",
+        "object_name": "users1.pickle",
+        "object_size": 238,
+        "parant_directory": ""
+    },
+    "C:\\Python\\.git": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 246,
+        "parant_directory": ".git"
+    },
+    "C:\\Python\\.git\\hooks": {
+        "object_type": "File",
+        "object_name": "update.sample",
+        "object_size": 3650,
+        "parant_directory": "hooks"
+    },
+    "C:\\Python\\.git\\info": {
+        "object_type": "File",
+        "object_name": "exclude",
+        "object_size": 240,
+        "parant_directory": "info"
+    },
+    "C:\\Python\\.git\\logs": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 5078,
+        "parant_directory": "logs"
+    },
+    "C:\\Python\\.git\\logs\\refs": {
+        "object_type": "Directory",
+        "object_name": "remotes",
+        "object_size": 1470,
+        "parant_directory": "refs"
+    },
+    "C:\\Python\\.git\\logs\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 1069,
+        "parant_directory": "heads"
+    },
+    "C:\\Python\\.git\\logs\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 735,
+        "parant_directory": "remotes"
+    },
+    "C:\\Python\\.git\\logs\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 735,
+        "parant_directory": "origin"
+    },
+    "C:\\Python\\.git\\objects": {
+        "object_type": "Directory",
+        "object_name": "pack",
+        "object_size": 0,
+        "parant_directory": "objects"
+    },
+    "C:\\Python\\.git\\objects\\09": {
+        "object_type": "File",
+        "object_name": "2f2259f5023654218eda4d91afdcdf742c7650",
+        "object_size": 335,
+        "parant_directory": "09"
+    },
+    "C:\\Python\\.git\\objects\\11": {
+        "object_type": "File",
+        "object_name": "dcb82fe5a4a033f281b013404c1a325268dbac",
+        "object_size": 155,
+        "parant_directory": "11"
+    },
+    "C:\\Python\\.git\\objects\\1e": {
+        "object_type": "File",
+        "object_name": "197e407753281e7efff42ca4bf0d31e8204dc6",
+        "object_size": 478,
+        "parant_directory": "1e"
+    },
+    "C:\\Python\\.git\\objects\\29": {
+        "object_type": "File",
+        "object_name": "9792d10158db4b21369e2e3dd834c91e215fe4",
+        "object_size": 111,
+        "parant_directory": "29"
+    },
+    "C:\\Python\\.git\\objects\\2a": {
+        "object_type": "File",
+        "object_name": "fa2e27261f09705a67151e2ddfdea8a53c9d60",
+        "object_size": 3514,
+        "parant_directory": "2a"
+    },
+    "C:\\Python\\.git\\objects\\34": {
+        "object_type": "File",
+        "object_name": "0ab9a317c2c94a9e3edc4e035d40c84b703eae",
+        "object_size": 105,
+        "parant_directory": "34"
+    },
+    "C:\\Python\\.git\\objects\\35": {
+        "object_type": "File",
+        "object_name": "908de7d4bc19a11db79e15988055d8a122e69d",
+        "object_size": 79,
+        "parant_directory": "35"
+    },
+    "C:\\Python\\.git\\objects\\36": {
+        "object_type": "File",
+        "object_name": "30a00c0ff90c71f518e01605717ad0055990b9",
+        "object_size": 155,
+        "parant_directory": "36"
+    },
+    "C:\\Python\\.git\\objects\\40": {
+        "object_type": "File",
+        "object_name": "360d782b453bac51b9451b24dd12ae9c0cc5b4",
+        "object_size": 144,
+        "parant_directory": "40"
+    },
+    "C:\\Python\\.git\\objects\\42": {
+        "object_type": "File",
+        "object_name": "568018b6eb981be10dbb3ba30e8dfcd9acd6e8",
+        "object_size": 81,
+        "parant_directory": "42"
+    },
+    "C:\\Python\\.git\\objects\\48": {
+        "object_type": "File",
+        "object_name": "2d813dc333a0c88a05ce2e5812681afc3c176e",
+        "object_size": 463,
+        "parant_directory": "48"
+    },
+    "C:\\Python\\.git\\objects\\49": {
+        "object_type": "File",
+        "object_name": "d30d0f51b4ed439167d4c01742dcfb0c6c8870",
+        "object_size": 289,
+        "parant_directory": "49"
+    },
+    "C:\\Python\\.git\\objects\\4b": {
+        "object_type": "File",
+        "object_name": "2209b510f11b6065c3b20feb9024c928f0065b",
+        "object_size": 510,
+        "parant_directory": "4b"
+    },
+    "C:\\Python\\.git\\objects\\57": {
+        "object_type": "File",
+        "object_name": "624ccc0308b76ed61652f5e92ea01840e77929",
+        "object_size": 821,
+        "parant_directory": "57"
+    },
+    "C:\\Python\\.git\\objects\\5d": {
+        "object_type": "File",
+        "object_name": "7c0e9706ffb4d9bdd9a45874a34101136c6ec5",
+        "object_size": 154,
+        "parant_directory": "5d"
+    },
+    "C:\\Python\\.git\\objects\\60": {
+        "object_type": "File",
+        "object_name": "3c23dd2bbf41c4769e8caed3a37b324d034d55",
+        "object_size": 106,
+        "parant_directory": "60"
+    },
+    "C:\\Python\\.git\\objects\\63": {
+        "object_type": "File",
+        "object_name": "42dd73eed9e6c53d205eb9ca7e43f8a0829773",
+        "object_size": 106,
+        "parant_directory": "63"
+    },
+    "C:\\Python\\.git\\objects\\64": {
+        "object_type": "File",
+        "object_name": "8972bc4da968dab50aa3b9bfca0225c1b31c52",
+        "object_size": 126,
+        "parant_directory": "64"
+    },
+    "C:\\Python\\.git\\objects\\67": {
+        "object_type": "File",
+        "object_name": "d6b956e13f84307d0799dde80777c9d1950aa8",
+        "object_size": 312,
+        "parant_directory": "67"
+    },
+    "C:\\Python\\.git\\objects\\6a": {
+        "object_type": "File",
+        "object_name": "0c323c68e91afe07de048de4ab541e6f4eb1b7",
+        "object_size": 42,
+        "parant_directory": "6a"
+    },
+    "C:\\Python\\.git\\objects\\6b": {
+        "object_type": "File",
+        "object_name": "fec0e41176c10d458a9ba1c757b4cd9ba2ba9b",
+        "object_size": 1205,
+        "parant_directory": "6b"
+    },
+    "C:\\Python\\.git\\objects\\6c": {
+        "object_type": "File",
+        "object_name": "5e7539d10dd2e2d97b9e332328cee7886ac431",
+        "object_size": 169,
+        "parant_directory": "6c"
+    },
+    "C:\\Python\\.git\\objects\\71": {
+        "object_type": "File",
+        "object_name": "eff2decf28847c3782cdccabdb8d6a5457ecc9",
+        "object_size": 106,
+        "parant_directory": "71"
+    },
+    "C:\\Python\\.git\\objects\\72": {
+        "object_type": "File",
+        "object_name": "bc3643d4d939653aac25fd0da7457b83f21b1d",
+        "object_size": 240,
+        "parant_directory": "72"
+    },
+    "C:\\Python\\.git\\objects\\82": {
+        "object_type": "File",
+        "object_name": "694fe88b4efdf8aaddfa1e68f186d16d501174",
+        "object_size": 269,
+        "parant_directory": "82"
+    },
+    "C:\\Python\\.git\\objects\\85": {
+        "object_type": "File",
+        "object_name": "88323e867144b7da22e01d7994912e402e37d8",
+        "object_size": 78,
+        "parant_directory": "85"
+    },
+    "C:\\Python\\.git\\objects\\86": {
+        "object_type": "File",
+        "object_name": "49cee30a83428ca6eb7824502935f46830cc2e",
+        "object_size": 955,
+        "parant_directory": "86"
+    },
+    "C:\\Python\\.git\\objects\\8c": {
+        "object_type": "File",
+        "object_name": "38293335137713443ccd555d1adc9204ec8259",
+        "object_size": 413,
+        "parant_directory": "8c"
+    },
+    "C:\\Python\\.git\\objects\\93": {
+        "object_type": "File",
+        "object_name": "76ed311bb53a66c169d3cdf8555cff265a627a",
+        "object_size": 194,
+        "parant_directory": "93"
+    },
+    "C:\\Python\\.git\\objects\\9b": {
+        "object_type": "File",
+        "object_name": "ac4969e3797cc3c1ea8032aaf4d3c66c8c52f6",
+        "object_size": 54,
+        "parant_directory": "9b"
+    },
+    "C:\\Python\\.git\\objects\\9e": {
+        "object_type": "File",
+        "object_name": "0247632f3d55f003d97cf552811d761b996e0a",
+        "object_size": 587,
+        "parant_directory": "9e"
+    },
+    "C:\\Python\\.git\\objects\\ac": {
+        "object_type": "File",
+        "object_name": "439e65218f471bf3f9fa8647a6263549b9c7ef",
+        "object_size": 277,
+        "parant_directory": "ac"
+    },
+    "C:\\Python\\.git\\objects\\b2": {
+        "object_type": "File",
+        "object_name": "7e16d6df8c442bfa371a44ab26f6fd787251e8",
+        "object_size": 53,
+        "parant_directory": "b2"
+    },
+    "C:\\Python\\.git\\objects\\b6": {
+        "object_type": "File",
+        "object_name": "bc001ab61afe214a7ce42bc018d4693ca50b1e",
+        "object_size": 282,
+        "parant_directory": "b6"
+    },
+    "C:\\Python\\.git\\objects\\b7": {
+        "object_type": "File",
+        "object_name": "85d15d4947c016c7d5b79c8fee2ae42c0bfa69",
+        "object_size": 318,
+        "parant_directory": "b7"
+    },
+    "C:\\Python\\.git\\objects\\bf": {
+        "object_type": "File",
+        "object_name": "22ad4c0660e148817406f4158ea513962caae4",
+        "object_size": 308,
+        "parant_directory": "bf"
+    },
+    "C:\\Python\\.git\\objects\\c4": {
+        "object_type": "File",
+        "object_name": "a7c3bf3f676de21b13a205724f25e5296c7005",
+        "object_size": 426,
+        "parant_directory": "c4"
+    },
+    "C:\\Python\\.git\\objects\\c5": {
+        "object_type": "File",
+        "object_name": "eb1689ef0101711659b3b3272906b83f4acd1c",
+        "object_size": 1080,
+        "parant_directory": "c5"
+    },
+    "C:\\Python\\.git\\objects\\db": {
+        "object_type": "File",
+        "object_name": "87fa5a2a44405697a2c26993d0473240200b89",
+        "object_size": 295,
+        "parant_directory": "db"
+    },
+    "C:\\Python\\.git\\objects\\df": {
+        "object_type": "File",
+        "object_name": "b699b5592bb1a219c298ea3caff2d0cfbfc9df",
+        "object_size": 154,
+        "parant_directory": "df"
+    },
+    "C:\\Python\\.git\\objects\\e6": {
+        "object_type": "File",
+        "object_name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "object_size": 15,
+        "parant_directory": "e6"
+    },
+    "C:\\Python\\.git\\objects\\ec": {
+        "object_type": "File",
+        "object_name": "0888c547cf3ec11c458a1d74a6404358000e8d",
+        "object_size": 257,
+        "parant_directory": "ec"
+    },
+    "C:\\Python\\.git\\objects\\ed": {
+        "object_type": "File",
+        "object_name": "762e0d8d1d0f8e870da5db9280abaf9bb5078a",
+        "object_size": 480,
+        "parant_directory": "ed"
+    },
+    "C:\\Python\\.git\\refs": {
+        "object_type": "Directory",
+        "object_name": "tags",
+        "object_size": 0,
+        "parant_directory": "refs"
+    },
+    "C:\\Python\\.git\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parant_directory": "heads"
+    },
+    "C:\\Python\\.git\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 41,
+        "parant_directory": "remotes"
+    },
+    "C:\\Python\\.git\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parant_directory": "origin"
+    },
+    "C:\\Python\\HW-1": {
+        "object_type": "File",
+        "object_name": "Task2.py",
+        "object_size": 1112,
+        "parant_directory": "HW-1"
+    },
+    "C:\\Python\\HW-2": {
+        "object_type": "File",
+        "object_name": "Task2.py",
+        "object_size": 2231,
+        "parant_directory": "HW-2"
+    },
+    "C:\\Python\\HW-3": {
+        "object_type": "File",
+        "object_name": "Task3.py",
+        "object_size": 926,
+        "parant_directory": "HW-3"
+    },
+    "C:\\Python\\HW-4": {
+        "object_type": "File",
+        "object_name": "Task3.py",
+        "object_size": 3424,
+        "parant_directory": "HW-4"
+    },
+    "C:\\Python\\HW-5": {
+        "object_type": "File",
+        "object_name": "Task3.py",
+        "object_size": 92,
+        "parant_directory": "HW-5"
+    },
+    "C:\\Python\\HW-6": {
+        "object_type": "File",
+        "object_name": "Task3.py",
+        "object_size": 461,
+        "parant_directory": "HW-6"
+    },
+    "C:\\Python\\HW-7": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2315,
+        "parant_directory": "HW-7"
+    },
+    "C:\\Python\\HW-7\\__pycache__": {
+        "object_type": "File",
+        "object_name": "Task2.cpython-311.pyc",
+        "object_size": 1355,
+        "parant_directory": "__pycache__"
+    },
+    "C:\\Python\\HW-8": {
+        "object_type": "File",
+        "object_name": "TaskHW.py",
+        "object_size": 5063,
+        "parant_directory": "HW-8"
+    }
+}
